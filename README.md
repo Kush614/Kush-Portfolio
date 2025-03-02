@@ -70,38 +70,6 @@ To run this project locally, follow these steps:
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-## Project Structure
-
-\`\`\`
-portfolio/
-├── app/
-│   ├── api/
-│   │   └── contact.ts
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── ui/
-│   ├── about.tsx
-│   ├── achievements.tsx
-│   ├── contact.tsx
-│   ├── experience.tsx
-│   ├── hero.tsx
-│   ├── main-nav.tsx
-│   ├── mode-toggle.tsx
-│   ├── projects.tsx
-│   ├── scroll-to-top.tsx
-│   └── skills.tsx
-├── lib/
-│   └── utils.ts
-├── public/
-│   └── [images and other static files]
-├── .env.local
-├── next.config.js
-├── package.json
-├── README.md
-└── tsconfig.json
-\`\`\`
 
 ## Deployment
 
